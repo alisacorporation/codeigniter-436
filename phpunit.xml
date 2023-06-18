@@ -10,7 +10,7 @@
 		stopOnFailure="false"
 		stopOnIncomplete="false"
 		stopOnSkipped="false"
-		xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.3/phpunit.xsd">
+		xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.6/phpunit.xsd">
 	<coverage includeUncoveredFiles="true" processUncoveredFiles="true">
 		<include>
 			<directory suffix=".php">./app</directory>
